@@ -8,8 +8,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/j_obenland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="j_obenland" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jonathan-obenland" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonathan-obenland" height="30" width="40" /></a>
+<a href="https://twitter.com/j_obenland" target="blank"><img align="center" src="./twitter.svg" alt="j_obenland" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonathan-obenland" target="blank"><img align="center" src="./linkedin.svg" alt="jonathan-obenland" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
