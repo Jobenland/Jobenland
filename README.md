@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan Obenland</h1>
-<h3 align="center">A senior at the University of Maryland, College Park</h3>
+<h3 align="center">A Senior at the University of Maryland, College Park</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jobenland&label=Profile%20views&color=0e75b6&style=flat" alt="jobenland" /> </p>
 
-<p align="center">🌱 I’m currently learning **Machine Learning**</p>
-<p align="center">📫 How to reach me **jobenland1+Github@gmail.com**</p>
+<p align="center">🌱 I’m currently learning Machine Learning</p>
+<p align="center">📫 How to reach me <code>jobenland1+Github@gmail.com</code></p>
+<p align="center">Checkout my npx buisness card with <code>npx jobenland</code></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
