@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Obenland</h1>
+<h1 align="center">Hi, I'm Jonathan Obenland</h1>
 <h3 align="center">A Senior at the University of Maryland, College Park</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jobenland&label=Profile%20views&color=0e75b6&style=flat" alt="jobenland" /> </p>
